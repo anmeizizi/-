@@ -1,5 +1,5 @@
 # 一个简单的图片在线处理demo
-* 在线地址 [aizigao.xyz/pictool](http://aizigao.xyz/pictool/)
+* 在线地址 [https://anmeizizi.github.io/picture-deal/]
   ![pictool](http://ol3odnf2k.bkt.clouddn.com/github/pictool/pictool001.jpg)
 ----
 # 功能：
@@ -24,7 +24,3 @@
   - 拉普拉斯
   - 色彩分离
 
------
-# update log
-* 17/1 上传至github
-* 15/11 demo第一版
